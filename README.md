@@ -1,0 +1,1 @@
+# SimpleVanillaJS-BloggerImages-AutoResize-Responsives
